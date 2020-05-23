@@ -1,0 +1,232 @@
+.books{
+    margin-top: 70pt;
+    margin-left: 30pt;
+    margin-right: 30pt;
+}
+.ml1 {
+    position: relative;
+    font-weight: 50pt;
+    font-size: 2.5em;
+    color: #001a66;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    text-shadow: -2px -2px 5px burlywood; 
+  }
+  
+  .ml1 .text-wrapper {
+    position: relative;
+    display: inline-block;
+    padding-top: 0.2em;
+    padding-right: 0.05em;
+    padding-bottom: 0.1em;
+    overflow: hidden;
+  }
+  
+  .ml1 .letter {
+    display: inline-block;
+    line-height: 1em;
+  }
+  .ml2 {
+    position: relative;
+    font-weight: 50pt;
+    font-size: 2.5em;
+    color: #001a66;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    text-shadow: -2px -2px 5px burlywood; 
+  }
+  
+  .ml2 .text-wrapper {
+    position: relative;
+    display: inline-block;
+    padding-top: 0.2em;
+    padding-right: 0.05em;
+    padding-bottom: 0.1em;
+    overflow: hidden;
+  }
+  
+  .ml2 .letter {
+    display: inline-block;
+    line-height: 1em;
+  }
+  .ml3 {
+    position: relative;
+    font-weight: 50pt;
+    font-size: 2.5em;
+    color: #001a66;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    text-shadow: -2px -2px 5px burlywood; 
+  }
+  
+  .ml3 .text-wrapper {
+    position: relative;
+    display: inline-block;
+    padding-top: 0.2em;
+    padding-right: 0.05em;
+    padding-bottom: 0.1em;
+    overflow: hidden;
+  }
+  
+  .ml3 .letter {
+    display: inline-block;
+    line-height: 1em;
+  }
+  .ml4 {
+    position: relative;
+    font-weight: 50pt;
+    font-size: 2.5em;
+    color: #001a66;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    text-shadow: -2px -2px 5px burlywood; 
+  }
+  
+  .ml4 .text-wrapper {
+    position: relative;
+    display: inline-block;
+    padding-top: 0.2em;
+    padding-right: 0.05em;
+    padding-bottom: 0.1em;
+    overflow: hidden;
+  }
+  
+  .ml4 .letter {
+    display: inline-block;
+    line-height: 1em;
+  }
+  .ml5 {
+    position: relative;
+    font-weight: 50pt;
+    font-size: 2.5em;
+    color: #001a66;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    text-shadow: -2px -2px 5px burlywood; 
+  }
+  
+  .ml5 .text-wrapper {
+    position: relative;
+    display: inline-block;
+    padding-top: 0.2em;
+    padding-right: 0.05em;
+    padding-bottom: 0.1em;
+    overflow: hidden;
+  }
+  
+  .ml5 .letter {
+    display: inline-block;
+    line-height: 1em;
+  }
+.ml6 {
+    position: relative;
+    font-weight: 50pt;
+    font-size: 2.5em;
+    color: #001a66;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    text-shadow: -2px -2px 5px burlywood; 
+  }
+  
+  .ml6 .text-wrapper {
+    position: relative;
+    display: inline-block;
+    padding-top: 0.2em;
+    padding-right: 0.05em;
+    padding-bottom: 0.1em;
+    overflow: hidden;
+  }
+  
+  .ml6 .letter {
+    display: inline-block;
+    line-height: 1em;
+  }
+  .ml7 {
+    position: relative;
+    font-weight: 50pt;
+    font-size: 2.5em;
+    color: #001a66;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    text-shadow: -2px -2px 5px burlywood; 
+  }
+  
+  .ml7 .text-wrapper {
+    position: relative;
+    display: inline-block;
+    padding-top: 0.2em;
+    padding-right: 0.05em;
+    padding-bottom: 0.1em;
+    overflow: hidden;
+  }
+  
+  .ml7 .letter {
+    display: inline-block;
+    line-height: 1em;
+  }
+  .ml8 {
+    position: relative;
+    font-weight: 50pt;
+    font-size: 2.5em;
+    color: #001a66;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    text-shadow: -2px -2px 5px burlywood; 
+  }
+  
+  .ml8 .text-wrapper {
+    position: relative;
+    display: inline-block;
+    padding-top: 0.2em;
+    padding-right: 0.05em;
+    padding-bottom: 0.1em;
+    overflow: hidden;
+  }
+  
+  .ml68 .letter {
+    display: inline-block;
+    line-height: 1em;
+  }
+  .ml9 {
+    position: relative;
+    font-weight: 50pt;
+    font-size: 2.5em;
+    color: #001a66;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    text-shadow: -2px -2px 5px burlywood; 
+  }
+  
+  .ml9 .text-wrapper {
+    position: relative;
+    display: inline-block;
+    padding-top: 0.2em;
+    padding-right: 0.05em;
+    padding-bottom: 0.1em;
+    overflow: hidden;
+  }
+  
+  .ml9 .letter {
+    display: inline-block;
+    line-height: 1em;
+  }
+#more{
+    max-width: 50pt;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    font-weight: bold;
+    margin-left: 1035pt;
+    margin-top: 40pt;
+}
+.follow{
+    margin-top: -30pt;
+    margin-left: 30pt;
+    margin-right: 30pt;
+
+}
+#followus{
+    font-family: Impact, Haettenschweiler, 'Arial', sans-serif;
+    font-size: x-large;
+    margin-bottom: -2pt;
+}

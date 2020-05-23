@@ -1,0 +1,111 @@
+.navbar .dropdown-menu .form-control {
+    width: 250px;
+}
+.navbar .btn{
+    margin: 5pt;   
+}
+#search{
+    padding-top: 80pt;
+}
+form.example input[type=text] {
+    padding: 10px;
+    font-size: 12px;
+    border: 1px solid #f1f1f1;
+    float: left;
+    width: 40%;
+    background: #f1f1f1;
+  }
+  
+  form.example button {
+    float: left;
+    width: 10%;
+    padding: 10px;
+    background: #2196F3;
+    color: white;
+    font-size: 12px;
+    border: 1px solid grey;
+    border-left: none;
+    cursor: pointer;
+  }
+  
+  form.example button:hover {
+    background: #0b7dda;
+  }
+  
+  form.example::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .task{
+    margin-left: 850pt;
+    margin-top: -50pt;
+  }
+#animation{
+    animation-name: example;
+    animation-duration: 20s;
+}
+@keyframes example {
+    0%   {background-color: black;}
+    25%  {background-color: yellow;}
+    50%  {background-color: blue;}
+    100% {background-color: green;}
+}
+#digital{
+    color: #990033;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.ml2 {
+    font-weight: 500;
+    font-size: 2.5em;
+    color: #000066;
+    text-shadow: -2px -2px 5px #b30000; 
+  }
+  
+  .ml2 .letter {
+    display: inline-block;
+    line-height: 1em;
+  }
+  .ml3 {
+    font-weight: 500;
+    font-size: 2.5em;
+    padding-left: 20pt;
+    color: #000066;
+    text-shadow: -2px -2px 5px #b30000; 
+  }
+  
+  .ml3 .letter {
+    display: inline-block;
+    line-height: 1em;
+  }
+
+#text{
+    font-size: 14pt;
+}
+#new{
+    margin-left: 25pt;
+    margin-right: 25pt;
+}
+#more{
+    max-width: 50pt;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    font-weight: bold;
+    margin-left: 1030pt;
+}
+.follow{
+    margin-top: -30pt;
+    margin-left: 30pt;
+    margin-right: 30pt;
+
+}
+#followus{
+    font-family: Impact, Haettenschweiler, 'Arial', sans-serif;
+    font-size: x-large;
+    margin-bottom: -2pt;
+}
+  
