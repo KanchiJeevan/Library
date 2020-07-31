@@ -17,19 +17,13 @@ font-family:'Oswald',arial narrow,sans-serif;
     background-color: white;
     margin-left: 150pt;
     margin-right: 100pt;
-    height: 550pt;
+    height: 340pt;
     margin-top: -30pt;
     padding-top: 70pt;
     font-family:'Oswald',arial narrow,sans-serif;
+    
 }
-#paragraph{
-    max-width: 90pt;
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: small;
-    font-weight: bold;
-    font-family:'Oswald',arial narrow,sans-serif;
-}
+
 #more{
     max-width: 60pt;
     text-align: center;
@@ -40,6 +34,8 @@ font-family:'Oswald',arial narrow,sans-serif;
 }
 #footer{
     font-family:'Oswald',arial narrow,sans-serif;
+    margin-top: 30pt;
+    margin-left: 0pt;
 }
 .btn-twitter {background-color:#4099FF;color:#fff;}
 .btn-facebook {background-color:#3B5998;color:#fff;}
@@ -66,4 +62,32 @@ img{
 #second{
     padding-top: 15pt;
     font-family: 'Assistant';
+}
+.box{
+    padding-left: 300pt;
+    padding-right: 50pt ;
+}
+.strength{
+    width: 390pt;
+}
+#heading{
+    text-align: center;
+    padding-top: 20pt;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    text-shadow: -2px -2px 5px #b30000;
+}
+.col-form-label{
+    color: black;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    
+}
+.col-sm-4 .form-control{
+    font-size: small;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+.col-sm-4{
+    box-shadow: -2px -2px -2px -2px rgb(167,144,144);
 }
